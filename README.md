@@ -1,4 +1,4 @@
-![hey](https://github.com/jupcan/jupcan/blob/master/img/card.gif)
+![hey](https://github.com/jupcan/jupcan/blob/master/img/info.gif)
 
 
 <a href="https://github.com/jupcan">
